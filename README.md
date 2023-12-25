@@ -3,8 +3,8 @@
 - 🌱 Currently learning Python and JavaScript (The Automation University), Web Development Foundations (The Odin Project).
 - 💞️ I’m always on the lookout for tips on web application testing (Manual/Automation).
 - 📫 How to reach me - Instagram (@iyer.8798), Email (sabarishiyer2010@gmail.com).
-
-TryHackMe Profile: https://tryhackme.com/p/zabilac
+- TryHackMe Profile: https://tryhackme.com/p/zabilac
+- LinkedIn Profile: https://www.linkedin.com/in/sabarish-iyer-b624351b5/
   
 <!---
 th3n00bd3v/th3n00bd3v is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
