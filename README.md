@@ -4,7 +4,7 @@
 - 💞️ I’m always on the lookout for tips on web application testing (Manual/Automation).
 - 📫 How to reach me - Instagram @iyer.8798
 
-[TryHackMe profile](https://tryhackme.com/p/zabilac)
+TryHackMe profile (https://tryhackme.com/p/zabilac)
   
 <!---
 th3n00bd3v/th3n00bd3v is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
