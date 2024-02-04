@@ -5,6 +5,8 @@
 - 📫 How to reach me - Instagram (@iyer.8798), Email (sabarishiyer2010@gmail.com).
 - TryHackMe Profile: https://tryhackme.com/p/zabilac
 - LinkedIn Profile: https://www.linkedin.com/in/sabarish-iyer-b624351b5/
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=th3n00bd3v)](https://github.com/ryo-ma/github-profile-trophy)
   
 <!---
 th3n00bd3v/th3n00bd3v is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
