@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @th3n00bd3v
-- 👀 Domain: Software Testing, Automation QA, Pentesting and Cyber Security.
+- 👀 Domain: Software Testing (Manual & Automation), Cyber Security (Penetration Testing).
 - 🌱 Currently learning Python and JavaScript (The Automation University), Web Development Foundations (The Odin Project).
 - 💞️ Always on the lookout for tips on web application testing (Manual/Automation).
 - 📫 Contact: [Email](sabarishiyer2010@gmail.com)
