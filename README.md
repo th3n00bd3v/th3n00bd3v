@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @th3n00bd3v
-- 👀 Domain: Software Testing (Manual & Automation), Cyber Security (Penetration Testing).
-- 💞️ Always on the lookout for tips on Web Application Testing (Manual/Automation).
-- 📫 Contact: [Email](sabarishiyer2010@gmail.com)
+- 👀 Domain: Web Application Testing (Manual & Automation), and Cyber Security enthusiast.
+- 📫 Contact: [Email](iyer8798@gmail.com)
 - Active (mostly) on [TryHackMe](https://tryhackme.com/p/zabilac)
+
+  
 - Achievements: 
 [![trophy](https://github-profile-trophy.vercel.app/?username=th3n00bd3v)](https://github.com/ryo-ma/github-profile-trophy)
   
