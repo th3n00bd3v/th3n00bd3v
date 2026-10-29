@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @th3n00bd3v
-- Interests: Web Application Testing (Manual/Automation), Cyber Security.
--  Hobbies: Watching Movies/TV Shows, Playing guitar (whenever I feel like it), Tech Geek.
+- Interests: QA (Manual/Automation Testing), Cyber Security (OSINT, Bug Bounty, Red Teaming)
+-  Hobbies: Movies/TV Shows, Playing Guitar, Reading (Comics, Books and whatnot!)
 - Contact: [Email](iyer8798@gmail.com)
 - Active (mostly) on [TryHackMe](https://tryhackme.com/p/th3n00bd3v?utm_campaign=social_share&utm_medium=social&utm_content=profile&cardVersion=0990ee7e0b4b&utm_source=copy&sharerId=68a17ea4e3db0dff8ff13b32)
 
