@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @th3n00bd3v
+# 👋 I’m @th3n00bd3v
+
+
 - Interests: QA (Manual/Automation Testing), Cyber Security (OSINT, Bug Bounty, Red Teaming)
 -  Hobbies: Movies/TV Shows, Playing Guitar, Reading (Comics, Books and whatnot!)
 - Contact: [Email](iyer8798@gmail.com)
@@ -6,8 +8,3 @@
 
 - Achievements: 
 [![trophy](https://github-profile-trophy.vercel.app/?username=th3n00bd3v&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-  
-<!---
-th3n00bd3v/th3n00bd3v is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
